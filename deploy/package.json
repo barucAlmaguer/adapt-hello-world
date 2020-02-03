@@ -1,0 +1,13 @@
+{
+    "name": "adapt-project-hello-react-node-postgres",
+    "version": "1.0.0",
+    "description": "Adapt project to deploy a React front end and Node.js back end with Postgres",
+    "license": "BSD-3-Clause",
+    "dependencies": {
+        "@adpt/cloud": "0.1.0",
+        "@adpt/core": "0.1.0",
+        "@types/node": "^8.10.20",
+        "source-map-support": "^0.5.6",
+        "typescript": "^3.0.3"
+    }
+}
